@@ -144,24 +144,19 @@
 // const s="sdfay";
 // console.log(first)
 
-//Difference between var,let,const
+// Difference between var,let,const
+
 // redeclaration :
-// var => possible
-// let =>not possible
-// const => not possible
+//   var => possible
+//   let =>not possible
+//  const => not possible
 
 // ReInitialization:
 // var => possible
 // let => possible
 // const => not possible
 
-//Only Delclaration possi
-
-
-
-
-
-
+//Only Delclaration possible or not
 // let a;
 // console.log(a)
 
